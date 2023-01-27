@@ -1,0 +1,26 @@
+{
+  "name": "custom-hooks",
+  "version": "1.0.0",
+  "description": "Useful custom hooks",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinWangzzz/custom-hooks.git"
+  },
+  "keywords": [
+    "React",
+    "hooks"
+  ],
+  "author": "KevinWang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinWangzzz/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/KevinWangzzz/custom-hooks#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
